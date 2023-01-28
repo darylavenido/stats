@@ -40,7 +40,7 @@ import requests
 # Import Blinka
 from board import SCL, SDA
 import busio
-import adafruit_ssd1306
+import Adafruit_SSD1306
 
 # Import Python Imaging Library
 from PIL import Image, ImageDraw, ImageFont
